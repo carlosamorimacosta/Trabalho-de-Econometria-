@@ -28,25 +28,6 @@ Sexo, idade, cor/raça, número de banheiros no domicílio (proxy socioeconômic
 
 ---
 
-## 📁 Estrutura do Repositório
-.
-├── README.md # Este arquivo
-├── trabalho_econometria.pdf # Versão final do trabalho
-├── dados/
-│ ├── raw/ # Dados brutos da PeNSE 2019
-│ └── processed/ # Dados tratados para análise
-├── scripts/
-│ ├── 01_importacao.R # Importação dos microdados
-│ ├── 02_limpeza.R # Tratamento de missings e recodificação
-│ ├── 03_descritivas.R # Estatísticas descritivas e correlações
-│ └── 04_modelos.R # Estimação dos 6 modelos de regressão
-├── outputs/
-│ ├── tabelas/ # Tabelas de resultados (LaTeX/CSV)
-│ └── figuras/ # Gráficos gerados (matriz de correlação, resíduos, etc.)
-└── references/ # Artigos e referências bibliográficas
-
----
-
 ## 🔍 Principais Resultados
 
 **Autoimagem extrema:**  
