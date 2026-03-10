@@ -1,6 +1,6 @@
 # O impacto da autoimagem no consumo de álcool entre adolescentes brasileiros
 
-Este repositório contém os materiais e códigos do trabalho de conclusão da disciplina de Econometria I, desenvolvido por **Carlos Henrique Amorim de Azevedo Costa** e **Julia Ya Hui Xiao**, sob orientação da **Fundação Getulio Vargas - Escola de Economia de São Paulo (FGV EESP)**.
+Este repositório contém os materiais e códigos do trabalho de conclusão da disciplina de Econometria I, desenvolvido por **Carlos Henrique Costa** e **Julia Xiao**, sob orientação da **Fundação Getulio Vargas - Escola de Economia de São Paulo (FGV EESP)**.
 
 ---
 
