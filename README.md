@@ -98,8 +98,8 @@ Natureza transversal dos dados impede inferências causais; ausência de medida 
 
 ## 👥 Autores
 
-**Carlos Henrique Amorim de Azevedo Costa**  
-**Julia Ya Hui Xiao**
+**Carlos Henrique Costa**  
+**Julia Xiao**
 
 **Instituição:** Fundação Getulio Vargas - Escola de Economia de São Paulo (FGV EESP)  
 **Ano:** 2025  
